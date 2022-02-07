@@ -3,6 +3,6 @@ The Data for the project can be found at this [link](https://catalog.data.gov/da
 
 ## Results
 <p align="center">
-  <img src="https://github.com/Hammad-12/Power-Bi-Failed-Banks-Visualization/blob/main/Results.PNG" width="500" height="500" title="hover text">
+  <img src="https://github.com/Hammad-12/Power-Bi-Failed-Banks-Visualization/blob/main/Results.PNG" width="700" height="500" title="hover text">
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
